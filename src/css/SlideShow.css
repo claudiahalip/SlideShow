@@ -1,0 +1,25 @@
+.slideShow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.image{
+    height: 650px;
+    width: 900px;
+    align-items:center;
+    justify-content: space-between;
+    display: flex;
+    border:1px solid black;
+    border-radius: 1%;
+}
+p {
+    font-size: 14px;
+    font-family:monospace;
+}
+img {
+    display: flex;
+}
